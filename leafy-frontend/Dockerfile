@@ -1,4 +1,4 @@
-# 빌드 이미지로 node:14 지정 
+# 빌드 이미지로 node:14 지정
 FROM node:14 AS build
 
 WORKDIR /app
